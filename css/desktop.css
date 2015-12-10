@@ -36,8 +36,13 @@ body{
     top: 40%;
 }
 .bottom{
+    bottom:20%;
+}
+
+.very_bottom{
     bottom:10%;
 }
+
 .title {
     font-size: 90px;
     letter-spacing: 4px;
