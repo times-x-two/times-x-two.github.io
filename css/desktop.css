@@ -3,7 +3,7 @@ html,body{
 }
 body{
     overflow:hidden;    
-    background-image:url(data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHk+WW91IGFyZSBiZWluZyA8YSBocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdGltZXMteC10d28vdGltZXMteC10d28uZ2l0aHViLmlvL21hc3Rlci90aW1lc3h0d29fbWluaS5qcGciPnJlZGlyZWN0ZWQ8L2E+LjwvYm9keT48L2h0bWw+);
+    background-image:url("https://github.com/times-x-two/times-x-two.github.io/blob/master/timesxtwo_mini.jpg?raw=true");
     background-size: cover;
     background-position: center center;
 }
