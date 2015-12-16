@@ -3,7 +3,7 @@ html,body{
 }
 body{
     overflow:hidden;    
-    background-image:url("https://github.com/times-x-two/times-x-two.github.io/blob/master/timesxtwo_mini.jpg?raw=true");
+    background-image:url(https://github.com/times-x-two/times-x-two.github.io/blob/master/timesxtwo_mini.jpg?raw=true);
     background-size: cover;
     background-position: center center;
 }
