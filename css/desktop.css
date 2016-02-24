@@ -43,6 +43,16 @@ body{
     bottom:0%;
 }
 
+.Logo{
+  height: 44px;
+  width: 44px
+}
+
+.SongTitle{
+  height: 44px;
+  width: 44px
+}
+
 .title {
     font-size: 0px;
     letter-spacing: 4px;
