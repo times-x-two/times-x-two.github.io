@@ -44,13 +44,17 @@ body{
 }
 
 .title {
-    font-size: 90px;
+    font-size: 0px;
     letter-spacing: 4px;
+    background-image:url(https://raw.githubusercontent.com/times-x-two/times-x-two.github.io/master/bg.png);
+
 }
 .subtitle {
-    font-size: 60px;
+    font-size: 0px;
     letter-spacing: 4px;
     line-height: 0.8em;
+    background-image:url(https://raw.githubusercontent.com/times-x-two/times-x-two.github.io/master/bg.png);
+
 }
 .tracks {
     margin-top: 20px;
