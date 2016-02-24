@@ -34,12 +34,12 @@ body{
     width: 100%;
 }
 .top{    
-    top: 5%;
+    top: 0%;
 }
 
 .middle{
     
-    bottom: 60%;
+    top: 90%;
 }
 
 .bottom{
@@ -59,7 +59,7 @@ body{
 
 .SongTitle{
   height: 230px;
-  width: 700px;
+  width: 700spx;
   margin-left: auto;
   margin-right: auto;
 }
@@ -67,15 +67,12 @@ body{
 .title {
     font-size: 0px;
     letter-spacing: 4px;
-    background-image:url(https://raw.githubusercontent.com/times-x-two/times-x-two.github.io/master/x2_logo.png);
 
 }
 .subtitle {
     font-size: 0px;
     letter-spacing: 4px;
     line-height: 0.8em;
-    background-image:url(https://raw.githubusercontent.com/times-x-two/times-x-two.github.io/master/wayhigher.png);
-
 }
 .tracks {
     margin-top: 20px;
