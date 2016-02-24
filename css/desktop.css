@@ -39,7 +39,7 @@ body{
 
 .middle{
     
-    top: 60%;
+    bottom: 60%;
 }
 
 .bottom{
@@ -55,16 +55,13 @@ body{
   width: 160px;
   margin-left: auto;
   margin-right: auto;
-  vertical-align: middle;
 }
 
 .SongTitle{
   height: 255px;
-  width: 570px;
+  width: 610px;
   margin-left: auto;
   margin-right: auto;
-
-
 }
 
 .title {
