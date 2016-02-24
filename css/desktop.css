@@ -53,15 +53,15 @@ body{
 .Logo{
   height: 288px;
   width: 160px;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+    z-index: 1;
 }
 
 .SongTitle{
   height: 230px;
   width: 700spx;
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+    z-index: 3;
 }
 
 .title {
