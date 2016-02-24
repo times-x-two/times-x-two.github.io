@@ -36,6 +36,12 @@ body{
 .top{    
     top: 5%;
 }
+
+.middle{
+    
+    top: 40%;
+}
+
 .bottom{
     bottom:16%;
 }
