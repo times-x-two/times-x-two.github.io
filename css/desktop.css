@@ -54,14 +54,12 @@ body{
   height: 288px;
   width: 160px;
   position: absolute;
-    z-index: 1;
 }
 
 .SongTitle{
   height: 230px;
   width: 700spx;
   position: absolute;
-    z-index: 3;
 }
 
 .title {
