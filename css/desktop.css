@@ -55,6 +55,7 @@ body{
   width: 160px;
   margin-left: auto;
   margin-right: auto;
+    padding-top: 40px;
 }
 
 .SongTitle{
@@ -62,7 +63,7 @@ body{
   width: 660px;
   margin-left: auto;
   margin-right: auto;
-padding-top: 900px;
+padding-top: 360px;
 }
 
 .title {
