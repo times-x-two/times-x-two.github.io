@@ -103,75 +103,11 @@ padding-top: 360px;
   text-indent: -9999px;
 }
 
-/*Icons from Nick DEMO*/
-
-.icon-mono {
-  background: url("../icons1.png");
-  background-image: url("../icons1.svg"), none;
-  background-color: #FFFFFF;
-  -webkit-transition: background 0.3s;
-          transition: background 0.3s;
-    height: 50%;
-    width: 50%;
-}
-
-/* facebook */
-.icon-mono.facebook {
-  background-position: 0 0;
-}
-
-.icon-mono.facebook:hover {
-  background-color: #3b5998;
-  background-position: 0 -96px;
-}
-
-/* twitter */
-.icon-mono.twitter {
-  background-position: -96px 0;
-}
-
-.icon-mono.twitter:hover {
-  background-color: #4099ff;
-  background-position: -96px -96px;
-}
-
-/* google plus */
-.icon-mono.googleplus {
-  background-position: -192px 0;
-}
-
-.icon-mono.googleplus:hover {
-  background-color: #d34836;
-  background-position: -192px -96px;
-}
-
-/* github */
-.icon-mono.github {
-  background-position: -288px 0;
-}
-
-.icon-mono.github:hover {
-  background-color: #333333;
-  background-position: -288px -96px;
-}
-
-/* rss */
-.icon-mono.rss {
-  background-position: -384px 0;
-}
-
-.icon-mono.rss:hover {
-  background-color: #ee802f;
-  background-position: -384px -96px;
-}
-
-
-
 .link:hover{
     background-position: center bottom;
 }
 .link.facebook{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_facebook.png);
+    background-image:url(../icon_facebook.png);
 }
 .link.instagram{
     background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_instagram.png);
