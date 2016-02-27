@@ -111,6 +111,8 @@ padding-top: 360px;
   background-color: #ffffff;
   -webkit-transition: background 0.3s;
           transition: background 0.3s;
+    height: 50%;
+    width: 50%;
 }
 
 /* facebook */
