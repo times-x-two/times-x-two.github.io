@@ -82,11 +82,11 @@ padding-top: 360px;
 }
 .links{
     font-size:0;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 .link {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     display: inline-block;
     margin: 0 8px;
     background-position: center top;
