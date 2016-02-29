@@ -39,7 +39,7 @@ body{
 
 .middle{
     
-    top: 95%;
+    top: 99%;
 }
 
 .bottom{
@@ -53,8 +53,8 @@ body{
 .Logo{
   /*height: 288px;
   width: 160px;*/
-    height: 6%;
-    width: 6%;
+    height: 8%;
+    width: 8%;
   margin-left: auto;
   margin-right: auto;
     padding-top: 40px;
