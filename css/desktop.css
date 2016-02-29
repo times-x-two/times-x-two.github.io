@@ -98,6 +98,7 @@ padding-top: 500px;
 .links1 {
     width: 195px;
     height: 213px;
+    display: inline-block;
     cursor: pointer;
     background-position: top;
 }
