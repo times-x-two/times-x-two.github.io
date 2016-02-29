@@ -113,21 +113,6 @@ padding-top: 500px;
 .link:hover{
     background-position: center bottom;
 }
-.link.itunes{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_apple.png);
-}
-.link.jbhifi{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_jbhifi.png);
-}
-.link.sanity{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_sanity.png);
-}
-.link.getmusic{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_getmusic.png);
-}
-.link.mail{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_mail.png);
-}
 .link.facebook{
     background-image:url(../yt.png);
 }
@@ -140,9 +125,7 @@ padding-top: 500px;
 .link.twitter{
     background-image:url(../fb.png);
 }
-.link.shop{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_shop.png);
-}
+
 
 
 
