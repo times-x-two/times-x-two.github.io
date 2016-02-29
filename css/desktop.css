@@ -103,6 +103,9 @@ padding-top: 500px;
     cursor: pointer;
 }
 
+.link1:hover{
+    background-image:url(../download2.png);
+}
 .link:hover{
     background-position: center bottom;
 }
@@ -137,10 +140,8 @@ padding-top: 500px;
     background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_shop.png);
 }
 .link1.download{
-    background-image: url(../download1.png);
+    background-image:url(../download1.png);
 }
-.link1:hover{
-    background-image: url(../download2.png);
-}
+
 
 
