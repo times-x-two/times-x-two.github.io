@@ -96,11 +96,10 @@ padding-top: 500px;
 }
 
 .links1 {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
+    width: 195px;
+    height: 213px;
     cursor: pointer;
-    background-position: center;
+    background-position: top;
 }
 
 .links1.download:hover{
