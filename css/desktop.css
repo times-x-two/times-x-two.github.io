@@ -82,22 +82,10 @@ padding-top: 500px;
     margin-top: 20px;
     font-size: 13px;
 }
-.links{
-    font-size:0;
-    margin-top: 30px;
-}
-.link {
-    width: 39px;
-    height: 39px;
-    display: inline-block;
-    margin: 0 8px;
-    background-position: center top;
-    cursor: pointer;
-}
 
 .links1 {
-    width: 195px;
-    height: 213px;
+    width: 100px;
+    height: 120pxpx;
     display: inline-block;
     cursor: pointer;
     background-position: top;
@@ -105,39 +93,6 @@ padding-top: 500px;
 
 .links1.download:hover{
     background-image:url(../download2.png);
-}
-.link:hover{
-    background-position: center bottom;
-}
-.link.itunes{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_apple.png);
-}
-.link.jbhifi{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_jbhifi.png);
-}
-.link.sanity{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_sanity.png);
-}
-.link.getmusic{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_getmusic.png);
-}
-.link.mail{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_mail.png);
-}
-.link.facebook{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_facebook.png);
-}
-.link.tumblr{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_tumblr.png);
-}
-.link.instagram{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_instagram.png);
-}
-.link.twitter{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_twitter.png);
-}
-.link.shop{
-    background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_shop.png);
 }
 .links1.download{
     background-image:url(../download1.png);
