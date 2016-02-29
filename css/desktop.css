@@ -101,6 +101,7 @@ padding-top: 500px;
     display: inline-block;
     margin: 0 8px;
     cursor: pointer;
+    background-position: center;
 }
 
 .links1.download:hover{
