@@ -94,6 +94,15 @@ padding-top: 500px;
     background-position: center top;
     cursor: pointer;
 }
+
+.link1 {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
 .link:hover{
     background-position: center bottom;
 }
@@ -127,6 +136,11 @@ padding-top: 500px;
 .link.shop{
     background-image:url(http://dizofyq6y2cqx.cloudfront.net/lorde/icon_shop.png);
 }
-
+.link1.download{
+    background-image: url(../download1.png);
+}
+.link:hover{
+    background-image: url(../download2.png)
+}
 
 
