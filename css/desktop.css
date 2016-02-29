@@ -103,7 +103,7 @@ padding-top: 500px;
     cursor: pointer;
 }
 
-.link1:hover{
+.link1.download:hover{
     background-image:url(../download2.png);
 }
 .link:hover{
